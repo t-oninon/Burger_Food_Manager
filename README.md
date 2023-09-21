@@ -1,20 +1,17 @@
-## Features
-Customers can create accounts, log in to the system, browse foods, make purchases, and do many other things. There are also various features available for administrators. The application is essentially separated into two roles-
-* **Customer:**
-    * Login
-    * Registration
-    * Profile view and modify
-    * Browse and search foods
-    * Add foods to cart
-    * Purchase foods
-    * Payment with credit card
-* **Administrator:**
-    * Add and remove users
-    * Modify user details
-    * View user list
-    * Add foods
+## Tính năng
+    Khách hàng có thể tạo tài khoản, đăng nhập hệ thống, duyệt thực phẩm, mua hàng và làm nhiều việc khác. Ngoài ra còn có nhiều tính năng khác nhau dành cho quản trị viên. Về cơ bản được tách thành hai vai trò
+* **Khách hàng:**
+    * Đăng nhập, đăng ký
+    * Xem hồ sơ và sửa đổi
+    * Xem và tìm kiếm thực phẩm
+    * Thêm thực phẩm vào giỏ hàng
+    * Mua thực phẩm
+    * Thanh toán bằng thẻ tín dụng
+* **Quản trị viên:**
+    * Quản lý người dùng(Thêm, sửa, xóa, cập nhật)
+    * Quản lý đồ ăn(Thêm, sửa, xóa, cập nhật)
 
-## Tools & Technologies
+## Công cụ & Công nghệ
 * Java, JDBC Template, Maven
 * **Frameworks:** Java Swing & Java Spring
 * **Database:** MySQL
